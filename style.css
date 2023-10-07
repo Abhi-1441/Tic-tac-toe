@@ -1,0 +1,12 @@
+.Box{
+    height: 70px;
+    width: 70px !important;
+    font-size: 40px;
+}
+.Box:hover{
+    cursor: pointer;
+}
+
+.Table{
+    height: 30rem;
+}
